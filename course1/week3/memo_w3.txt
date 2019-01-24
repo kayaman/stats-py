@@ -1,44 +1,43 @@
->> heading >>
 TO: John Goldman, Pizza Buddy CEO
-FROM: Jim Morrison, Market Research Specialist
+FROM: Jim McDudeman, Market Research Specialist
 DATE: January 13, 2018
 SUBJECT: Consumer data prospection for marketing campaign
-<< heading <<
-
->> opening >>
-
-<< opening <<
-
->> context >>
 
 The pizza market is a consolidated and virtuous business segment. Pizza Buddy and Pizza Dummies have been sharing consumers preferences for years and years so far. Market research aided by data collection and analysis shows that some marketing strategies can move Pizza Buddy a step ahead of its main competitor.
 
-<< context <<
+You asked me to look for appropriate data for building a great marketing advertisement to strengthen the Pizza Buddy superiority over the Pizza Dummies company. In order to accomplish that I propose some actions to be taken. These actions will bring insights and assure the success of the marketing advertisement goals. This work consists in three steps: collecting data, analysis and decisions making.
 
->> task >>
-
-You asked me that I look for appropriate data for building a great marketing advertisement to strengthen the Pizza Buddy superiority over the Pizza Dummies company. In order to accomplish that I propose some actions to be taken. These actions will bring insights and assure the success of the marketing advertisement goals. This work consists in three steps: collecting data, analysis and decisions making.
-
-The delivery men should be trained to collect answers for quick questions at the delivery time, such as:
+The data collection should be done across all channels the customers have to order and receive the products. This should include orders made by phone, mobile application, website, onsite and at delivery time, through the delivery men. The process must be able to collect answers for questions such as:
 
 - What is their main reason for choosing Pizza Buddy?
-- How many flavors and toppings they usually like on a pizza?
+- How many flavours and toppings they usually like on a pizza?
 - How much time they consider reasonably for a pizza delivery?
 - How many times they order pizzas per month, in average?
 - Which day of the week deserves a pizza?
 
-To avoid bugging customers with unexpected questionnaire the delivery men should ask just one or two questions per customer, per delivery. This process must be done randomly and the answers should be collected back in the office and be made available to the marketing analysts.
-To determine the best method of choosing the key company's strengths to use as base for the marketing advertisement I will ...
+Care should be taken to avoid bugging customers with unexpected questionnaire. The phone operators and delivery men should ask just one or two questions per customer, per order or delivery. This process must be done randomly and the answers should be collected back in the office and be made available to the marketing analysts. To determine the best method of choosing the key company's strengths to use as base for the marketing advertisement I will summarise all the data gathered in the following ways:
 
-<< task <<
+- Categorise main qualities the customers value of Pizza Buddy.
+- Summarise and discover the optimal number of options of flavours and toppings in order to make the purchase choices seam more natural and transparent.
+- Discover a target value for the amount of time between the order and delivery.
+- Summarise which week days the customers have more probability of ordering a pizza. 
 
+Undercover or stealth marketing
 
-
+Hire 20% more delivery men on days of week that customers are more probable on buying pizzas to offer an increased service level. Change the menu to match the customers' preferences for number of flavours and toppings on the pizzas.
 
 Paid advertising
 
-print media
+Send print media through the pizza packages containing offers and coupons targeting the days that the company will be prepared to receive an increased number of orders. These offers may also target the new pizza compositions, like number of flavours and toppings.
 
 Relationship marketing
 
-In order to increase customer loyalty, keep track of consumer's orders and summarize their favorite flavors and toppings, and the amount of time they do between the orders. This information can be used for a campaign to surprise loyal customers in a predicted good timing with the delivery of their favorite pizza. Neither Pizza Dummies or other competitors have something similar in the area.
+In order to increase customer loyalty, keep track of consumer's orders and summarise their favourite flavours and toppings, and the amount of time they do between the orders. This information can be used for a campaign to surprise loyal customers in a predicted good timing with the delivery of their favourite pizza. Neither Pizza Dummies or other competitors have something similar in the area.
+
+Conclusion
+
+In possession of correct and detailed information about Pizza Buddy customers it is possible to create and operate a successful marketing campaign. From data collection to actions and advertisement the entire proposed process is cheap but powerful. It is easy to scale and control. It's a sure shot against Pizza Buddy competitors.
+
+Resources
+
+https://www.yodiz.com/blog/8-types-of-marketing-strategies-and-definition/
